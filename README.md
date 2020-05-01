@@ -1,7 +1,10 @@
 # uts
 teknologi web
 
-hasil
+1.buat mockup/sketsa desain (gunakan toolbebas :photoshop,figma,dll)
+![konsep](https://user-images.githubusercontent.com/46736749/80830888-fd4a6580-8c13-11ea-8f76-3dbe428ba32a.jpg)
+
+2.Buat HTML dan CSS berdasarkan mockup desain tersebut
 ![Screenshot (39)](https://user-images.githubusercontent.com/46736749/80828746-01748400-8c10-11ea-86a2-3caf57dc895c.png)
 ![Screenshot (40)](https://user-images.githubusercontent.com/46736749/80828768-0c2f1900-8c10-11ea-8d02-9f88ccff2ca2.png)
 ![Screenshot (41)](https://user-images.githubusercontent.com/46736749/80828785-151fea80-8c10-11ea-9484-60fa72e231f4.png)
