@@ -6,6 +6,7 @@ teknologi web
 ![Screenshot (56)](https://user-images.githubusercontent.com/46736749/80911529-10b71700-8d61-11ea-809d-3561d0c92562.png)
 
 2.Buat HTML dan CSS berdasarkan mockup desain tersebut
+![Screenshot (56)](https://user-images.githubusercontent.com/46736749/80914818-6519c100-8d78-11ea-9c0c-197b7dab76f2.png)
 ![Screenshot (47)](https://user-images.githubusercontent.com/46736749/80911539-1a407f00-8d61-11ea-974a-e16d6dbfb57e.png)
 ![Screenshot (48)](https://user-images.githubusercontent.com/46736749/80911657-dac66280-8d61-11ea-95e0-975c6a749c15.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/46736749/80911546-29bfc800-8d61-11ea-93db-be6182ae1c51.png)
