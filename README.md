@@ -7,11 +7,10 @@ teknologi web
 
 2.Buat HTML dan CSS berdasarkan mockup desain tersebut
 ![Screenshot (56)](https://user-images.githubusercontent.com/46736749/80914818-6519c100-8d78-11ea-9c0c-197b7dab76f2.png)
-![Screenshot (47)](https://user-images.githubusercontent.com/46736749/80911539-1a407f00-8d61-11ea-974a-e16d6dbfb57e.png)
-![Screenshot (48)](https://user-images.githubusercontent.com/46736749/80911657-dac66280-8d61-11ea-95e0-975c6a749c15.png)
-![Screenshot (49)](https://user-images.githubusercontent.com/46736749/80911546-29bfc800-8d61-11ea-93db-be6182ae1c51.png)
-![Screenshot (50)](https://user-images.githubusercontent.com/46736749/80911668-fc274e80-8d61-11ea-9413-2d6772d2c5b8.png)
-![Screenshot (51)](https://user-images.githubusercontent.com/46736749/80911549-2c222200-8d61-11ea-99cd-3b431ea43689.png)
-![Screenshot (52)](https://user-images.githubusercontent.com/46736749/80911551-30e6d600-8d61-11ea-95a8-2c9af80dda3a.png)
-![Screenshot (53)](https://user-images.githubusercontent.com/46736749/80911674-0c3f2e00-8d62-11ea-8aa7-53b6ed0653ae.png)
-![Screenshot (54)](https://user-images.githubusercontent.com/46736749/80911557-347a5d00-8d61-11ea-906a-ce0ab93eb259.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/46736749/81038106-22b6c800-8ecf-11ea-9d67-5ffce0be7ed9.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/46736749/81038114-28aca900-8ecf-11ea-83e8-0de6d7eb43fc.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/46736749/81038120-2c403000-8ecf-11ea-9f9a-a79ef6efdcf9.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/46736749/81038128-32361100-8ecf-11ea-98d4-d30bffef336f.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/46736749/81038146-3feb9680-8ecf-11ea-800e-e8aa4b70fac6.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/46736749/81038151-411cc380-8ecf-11ea-965e-9899fbb2ffab.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/46736749/81038160-4548e100-8ecf-11ea-872d-fcb4c4d7143e.png)
