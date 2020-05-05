@@ -3,7 +3,7 @@ teknologi web
 
 1.buat mockup/sketsa desain (gunakan toolbebas :photoshop,figma,dll)
 
-![Screenshot (56)](https://user-images.githubusercontent.com/46736749/80911529-10b71700-8d61-11ea-809d-3561d0c92562.png)
+![sketsa](https://user-images.githubusercontent.com/46736749/81038256-9b1d8900-8ecf-11ea-9e4a-a881e494385c.png)
 
 2.Buat HTML dan CSS berdasarkan mockup desain tersebut
 ![Screenshot (56)](https://user-images.githubusercontent.com/46736749/80914818-6519c100-8d78-11ea-9c0c-197b7dab76f2.png)
